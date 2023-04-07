@@ -1,0 +1,2 @@
+webapp_git_repo: git@github.com:lexivanx/webapp-ansible-deploy.git
+webapp_service_name: webapp-ansible-deploy
